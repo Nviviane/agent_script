@@ -3,8 +3,8 @@
 #Description: Script to display system info
 
 
-author:viviane
-date: august 2020
+#author:viviane
+#date: august 2020
 
 
 lscpu
